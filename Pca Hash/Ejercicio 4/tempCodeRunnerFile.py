@@ -1,0 +1,1 @@
+if i > self.__primario:
